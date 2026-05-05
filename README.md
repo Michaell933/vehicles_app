@@ -1,4 +1,4 @@
-# Proyecto Sprint 7 
+# Proyecto Ventas de vehiculos
 Aplicación web con Streamlit para visualizar datos de vehículos.
 ## Página en vivo
 Puedes ver la página en [Render](https://vehicles-app-ktmu.onrender.com)
